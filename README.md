@@ -23,7 +23,8 @@ This first notebook contains all the steps and transformations I performed for t
      - Logistic Regression -
      - KNN -
      - SVM -
-Results:
+- Results -:
+
 | Algorithm | Jaccard |f1-score | Precision | Recall |	Time(s) |
 | ---------- | -------|---------|-----------|--------|-----------|
 | Random Forest	| 0.722 |	0.72 |	0.724 |	0.591 |	6.588 |
